@@ -1,0 +1,15 @@
+{
+  "name": "j00-t03-sequences",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tehtava.html",
+  "scripts": {
+    "start": "node tehtava/start.js",
+    "test": "jest"
+  },
+  "author": "Pekka Tapio Aalto",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.4.2"
+  }
+}
